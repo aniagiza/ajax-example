@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": "Film2",
+      "rate": "3",
+      "description": "Opis2"
+    },
+    {
+      "title": "asdasd",
+      "rate": "12",
+      "description": "sadasdd",
+      "id": 3
+    }
+  ]
+}
